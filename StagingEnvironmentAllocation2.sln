@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StagingEnvironmentAllocation2", "StagingEnvironmentAllocation2\StagingEnvironmentAllocation2.csproj", "{4A2F6195-F949-424E-B973-CC4E377F8DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2F6195-F949-424E-B973-CC4E377F8DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2F6195-F949-424E-B973-CC4E377F8DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2F6195-F949-424E-B973-CC4E377F8DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2F6195-F949-424E-B973-CC4E377F8DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BBAFBF-69EF-4759-9F3C-549EF8CC3338}
+	EndGlobalSection
+EndGlobal
